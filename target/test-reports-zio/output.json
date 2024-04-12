@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+       "name" : "test_case_-316054410/SpotifyDataAnalysisSpec/calculateAveragePopularityByGenre should calculate correct averages",
+       "status" : "Success",
+       "durationMillis" : "500",
+       "annotations" : "",
+       "fullyQualifiedClassName" : "test_case_-316054410",
+       "labels" : ["SpotifyDataAnalysisSpec", "calculateAveragePopularityByGenre should calculate correct averages"]
+    },
+    {
+       "name" : "test_case_-316054410/SpotifyDataAnalysisSpec/calculateGenreFrequency should calculate correct genre frequency",
+       "status" : "Success",
+       "durationMillis" : "500",
+       "annotations" : "",
+       "fullyQualifiedClassName" : "test_case_-316054410",
+       "labels" : ["SpotifyDataAnalysisSpec", "calculateGenreFrequency should calculate correct genre frequency"]
+    }
+
+  ]
+}
